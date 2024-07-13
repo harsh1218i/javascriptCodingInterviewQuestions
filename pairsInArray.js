@@ -15,4 +15,4 @@ function pairsInArray(arr) {
     // return finalArr.length;
 }
 
-// console.log(pairsInArray(arr));
+console.log(pairsInArray(arr));
