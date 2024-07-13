@@ -1,0 +1,8 @@
+1. useMemo() vs useCallback() in ReactJs (hooks).
+2. How to make products in such a way that the availability of the products increases.
+3. .map() vs .filter() in JS.
+4. Closures in JS.
+5. HOFs and HOCs.
+6. Debouncing in JS.
+7. How to customise right click options on any website.
+8. Pure Components in ReactJs.

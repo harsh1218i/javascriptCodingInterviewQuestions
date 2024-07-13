@@ -1,0 +1,13 @@
+{
+  "name": "codinginterviewquestions",
+  "version": "1.0.0",
+  "main": "practiceQuestions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node twoSum.js"
+  },
+  "keywords": [],
+  "author": "Harshvardhan Singh Chauhan",
+  "license": "ISC",
+  "description": ""
+}
